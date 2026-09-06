@@ -8,7 +8,7 @@
 
 日本語学習を兼ねて、生成AIを活用しながら日本語で作成しています。
 
-PythonとJavaの問題演習はコードが中心となるため、効率的な学習を目的として、コメントや改善点は韓国語で記述しています。
+PythonとJava、SQLの問題演習はコードが中心となるため、効率的な学習を目的として、コメントや改善点は韓国語で記述しています。
 
 ---
 
@@ -18,11 +18,11 @@ PythonとJavaの問題演習はコードが中心となるため、効率的な�
 
 | フォルダ | カテゴリ | 概要 |
 | :--- | :--- | :--- |
-| Python | Python | Python 問題演習 (Flow Control・Data Struture・Function) |
-| Java | Java | Java 問題演習 (Flow Control)、OOP |
-| Web | Frontend + Backtend | HTML・CSS・JavaScript、PHP |
+| Python | Python 問題演習 | Flow Control・Data Struture・Function |
+| Java | Java 問題演習 | Flow Control、OOP |
+| Web | Frontend + Backtend | HTML・CSS、PHP |
 | CS | Computer Science | OS、Git |
-| SQL | Oracle SQL | SQL 問題演習 |
+| SQL | Oracle SQL 問題演習 | SELECT |
 
 ---
 
